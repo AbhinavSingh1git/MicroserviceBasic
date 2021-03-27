@@ -25,3 +25,9 @@ https://home.openweathermap.org/api_keys
 
 Fire below command in Visual code terminal to store the apikey
 dotnet user-secrets set ServiceSettings:ApiKey yourapikey
+
+once done.Run below command in Visual code terminal.
+dotnet run
+
+once service is up and running.you can access.
+http://localhost:5000/WeatherForecast/mumbai
